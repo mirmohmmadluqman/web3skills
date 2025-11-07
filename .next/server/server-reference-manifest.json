@@ -1,0 +1,17 @@
+{
+  "node": {
+    "40c11d59b60ab8cc6ca4b0d6992f8530b3ff12a6dc": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/category-mastery-flow.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "75ms7UJVOxvzsF+HAjCB1xrc92WIiC1aNFTLEdsSFNs="
+}
