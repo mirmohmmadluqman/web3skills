@@ -84,6 +84,31 @@ npm run build
 - **Export**: Click "Export Progress" to download your data as JSON
 - **Import**: Click "Import Progress" to restore from a previously exported file
 
+## Technology Stack
+
+- React 18
+- Tailwind CSS (utility classes only)
+- Lucide React (minimal icon usage)
+- Local Storage API
+
+## Design Philosophy
+
+- **Minimal & Clean**: Lots of whitespace, simple layouts, no clutter
+- **Modern & Professional**: Subtle borders, soft shadows, gentle interactions
+- **Monochromatic with Accents**: Gray base with blue and purple accents
+- **Typography-focused**: Clear hierarchy, readable fonts
+- **Mobile-first**: Fully responsive, touch-friendly design
+- **Performance**: Fast, smooth transitions, lightweight
+
+## Color Palette
+
+- Background: Light gray (#F9FAFB, #F3F4F6)
+- Cards: Pure white with subtle borders
+- Primary: Blue (#3B82F6, #2563EB)
+- Secondary: Purple (#8B5CF6, #7C3AED)
+- Success: Green (#10B981)
+- Text: Dark gray (#111827, #374151, #6B7280)
+
 ## Project Structure
 
 ```
